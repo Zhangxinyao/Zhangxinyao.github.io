@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hjpro.xyz/"/>
   <updated>2016-07-14T15:00:31.963Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hjpro.xyz/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/07/14/hello-world/"/>
-    <id>http://yoursite.com/2016/07/14/hello-world/</id>
+    <link href="http://hjpro.xyz/2016/07/14/hello-world/"/>
+    <id>http://hjpro.xyz/2016/07/14/hello-world/</id>
     <published>2016-07-14T15:00:31.962Z</published>
     <updated>2016-07-14T15:00:31.963Z</updated>
     
